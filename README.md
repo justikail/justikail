@@ -9,4 +9,6 @@
   - LinkedIn: [Haikal Siregar](https://www.linkedin.com/in/sirhaikal/)
   - Web Portofolio : [justikail.github.io](https://justikail.github.io/)
 
-  <a href="https://github.com/justikail?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=r">
+##
+
+<a href="https://github.com/pebrianz?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo">
