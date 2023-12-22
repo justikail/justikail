@@ -1,4 +1,4 @@
-![My card name](https://cardivo.vercel.app/api?name=Justikail&description=I%27m%20Currently%20Focus%20On%20Python%20&%20Front-End&image=https://avatars.githubusercontent.com/u/59039891?s=400&u=88f38606987698a73a175e0ba696ea5bbae5c64b&v=4&backgroundColor=%23c1c1c1&instagram=sir.ikail&github=justikail&pattern=leaf&colorPattern=%23eaeaea)
+![My card name](https://cardivo.vercel.app/api?name=Justikail&description=I%27m%20Currently%20Focus%20On%20Python%20&amp;%20Front-End&image=https://avatars.githubusercontent.com/u/59039891?s=400&u=88f38606987698a73a175e0ba696ea5bbae5c64b&v=4&backgroundColor=%23c1c1c1&instagram=sir.ikail&github=justikail&pattern=leaf&colorPattern=%23eaeaea)
 ##
 ### Hi, I'm Justikail👋
 
