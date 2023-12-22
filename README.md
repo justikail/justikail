@@ -1,8 +1,8 @@
 ![My card name](https://cardivo.vercel.app/api?name=Justikail&description=Always%20Learn%20New%20Technology%20📚&image=https://avatars.githubusercontent.com/u/59039891?s=400&u=88f38606987698a73a175e0ba696ea5bbae5c64b&v=4&backgroundColor=%23c1c1c1&instagram=sir.ikail&github=justikail&pattern=leaf&colorPattern=%23eaeaea)
+##
+### Hi, I'm Justikail👋
 
-### Hi there, I'm Justikail👋
-
-- 🎨 I’m currently working on **FrontEnd Developer, Blog Writter, and Cyber Security**
+- 🎨 I’m currently learning **FrontEnd Developer, Blog Writter, and Cyber Security**
 - 💻 I’m currently learning **Backend Developer**
 - 📱 I’m currently learning **UI/UX Designer**
 - 🎮 I like something new
